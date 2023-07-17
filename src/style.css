@@ -1,3 +1,10 @@
-body{
-    background: green;
+body {
+  background: palevioletred;
+}
+.div card {
+  background-color: white;
+  margin: auto;
+  width: 200px;
+  height: 500px;
+  display: inline-block;
 }
